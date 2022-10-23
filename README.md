@@ -1,10 +1,6 @@
 # R-tutorials
-### Introduction to Data Mining
-
-#### Pang-Ning Tan, Michigan State University,
-#### Michael Steinbach, University of Minnesota
-#### Anuj Karpatne, University of Minnesota
-#### Vipin Kumar, University of Minnesota
+### This code covers chapter 8 of _"Introduction to Data Mining"
+### by Pang-Ning Tan, Michael Steinbach and Vipin Kumar.
 
 #### https://www-users.cse.umn.edu/~kumar001/dmbook/index.php
 
